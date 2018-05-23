@@ -57,7 +57,7 @@
     "babel-plugin-transform-react-jsx": "^6.24.1",
     "babel-polyfill": "^6.26.0",
     "source-map-loader": "^0.2.1",
-    "webpack": "^2.6.1",
+    "webpack": "^4.0.0",
     "webpack-dev-server": "^2.7.1"
   }
 }
